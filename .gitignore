@@ -4,7 +4,9 @@
 /Build/Resources
 /Configuration/
 /Data/
-/Packages/
+/Packages/Application/
+/Packages/Framework/
+/Packages/Libraries/
 /Web/
 /bin/
 /Readme.txt

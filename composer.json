@@ -1,6 +1,6 @@
 {
-    "name": "typo3/neos-base-distribution",
-    "description" : "TYPO3 Neos Base Distribution",
+    "name": "visayinfo/distribution",
+    "description" : "TYPO3 Neos Base Distribution for www.visay.info",
     "license": "GPL-3.0+",
     "config": {
         "vendor-dir": "Packages/Libraries",
@@ -9,7 +9,6 @@
     "require": {
         "typo3/neos": "dev-master",
         "typo3/neos-nodetypes": "dev-master",
-        "typo3/neosdemotypo3org": "dev-master",
         "typo3/neos-kickstarter": "dev-master"
     },
     "require-dev": {
